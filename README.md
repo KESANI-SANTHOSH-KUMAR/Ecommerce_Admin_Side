@@ -64,7 +64,7 @@ It allows administrators to securely manage products, images, and inventory thro
 ---
 
 ## 📁 Folder Structure
-
+```bash
 ecom/
 │
 ├── backend/
@@ -83,7 +83,7 @@ ecom/
 │ └── package.json
 │
 └── README.md
-
+```
 
 ---
 
