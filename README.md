@@ -165,5 +165,3 @@ http://localhost:5173
 
 - KESANI SANTHOSH KUMAR
 GitHub: https://github.com/KESANI-SANTHOSH-KUMAR
-
-## ⭐ If you find this project useful, consider starring the repository!
