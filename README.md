@@ -161,7 +161,7 @@ http://localhost:5173
 
 - Docker & deployment
 ---
-### 👤 Author
+### 👨‍💻 Developed By
 
 - KESANI SANTHOSH KUMAR
 GitHub: https://github.com/KESANI-SANTHOSH-KUMAR
